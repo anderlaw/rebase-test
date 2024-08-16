@@ -1,3 +1,3 @@
 document.querySelector('#alert').onclick = () => {
-    alert('button has been clicked!')
+    alert('button has been fucked on main branch')
 }
